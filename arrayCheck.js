@@ -1,4 +1,4 @@
-var CentralCommittee = ["Felix", "Stalin", "Lenin", "Voroshilov", "Molotov"];
+var CentralCommittee = ["Felix", "Eden", "John", "Moris", "Edvard"];
 
 var askName = prompt("Enter you`r name, please");
 
